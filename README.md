@@ -1,6 +1,2 @@
 # MEEVisitaTecnica
-$ git init
-$ git add README.md
-$ git commit -m "first commit"
-$ git remote add origin https://github.com/AngularApps/MEEVisitaTecnica.git
-$ git push -u origin master
+Criando aplicação web para atender a parte do processo de MPR referente a Visita Técnica
